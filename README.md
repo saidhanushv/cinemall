@@ -1,6 +1,6 @@
 # Cinemall🎥
 
-Welcome to Cinemall - The One Stop Store! This is a simple web application that allows you to search for movies and view their details.
+This is a simple web application that allows you to search for movies and view their details.
 
 ## Getting Started
 
